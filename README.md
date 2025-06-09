@@ -1,20 +1,19 @@
 ## Key Presentation Principles
-Understand Your Audience: Tailor the detail and complexity based on who will view your reports or dashboards. For distributed or non-technical audiences, include more explanatory text.
-Clear and Effective Graphs/Charts: Choose chart types that best represent your data to maximize clarity.
-Focus on Key Points: Highlight the most critical insights to avoid overwhelming your audience.
-Storytelling: Use a narrative approach to guide your audience through the data logically and compellingly.
-Insightful Dashboards: Design dashboards that not only display data but provide actionable insights.
-
+- Understand Your Audience: Tailor the detail and complexity based on who will view your reports or dashboards. For distributed or non-technical audiences, include more explanatory text.
+- Clear and Effective Graphs/Charts: Choose chart types that best represent your data to maximize clarity.
+- Focus on Key Points: Highlight the most critical insights to avoid overwhelming your audience.
+- Storytelling: Use a narrative approach to guide your audience through the data logically and compellingly.
+- Insightful Dashboards: Design dashboards that not only display data but provide actionable insights.
 
 ## Data Visualization
-Column and Bar Charts:
+### Column and Bar Charts:
 Best for comparing categories or displaying time series data (especially column charts for trends over time).
 
-Combo Charts:
+### Combo Charts:
 Combine two chart types (e.g., column + line) to compare related but distinct data series on the same axis.
 Stacked column charts stack related data series for visual comparison.
 
-Waterfall Charts:
+### Waterfall Charts:
 Illustrate how sequential positive and negative values contribute to a final total, useful for budget or financial change tracking over time.
 
 ## Pre-attentive Attributes
